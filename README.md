@@ -1,4 +1,4 @@
-# AI Customer Support Environment
+# Support-ai-demo
 
 ## Overview
 
